@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FinalProject.java">
+   </FileRef>
+   <FileRef
+      location = "group:Graph.java">
+   </FileRef>
+   <FileRef
+      location = "group:Stack.java">
+   </FileRef>
+   <FileRef
+      location = "group:Bag.java">
+   </FileRef>
+   <FileRef
+      location = "group:StdIn.java">
+   </FileRef>
+   <FileRef
+      location = "group:In.java">
+   </FileRef>
+   <FileRef
+      location = "group:StdOut.java">
+   </FileRef>
+   <FileRef
+      location = "group:StdRandom.java">
+   </FileRef>
+   <FileRef
+      location = "group:Edge.java">
+   </FileRef>
+</Workspace>
